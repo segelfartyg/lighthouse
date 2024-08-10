@@ -1,5 +1,5 @@
 # The LightHouse Project
-Make lights with IoT
+Make lights with IoT devices
 
 Consists of these sub projects:
 
